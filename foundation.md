@@ -19,3 +19,4 @@ Ether
 Purpose: Used to pay for gas, which is the measure of computational work required for transactions and smart contracts on the Ethereum network.
 
 2. How Gas Fees and Transactions work together ?
+   Okay
