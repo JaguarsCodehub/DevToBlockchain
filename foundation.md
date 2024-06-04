@@ -20,3 +20,4 @@ Purpose: Used to pay for gas, which is the measure of computational work require
 
 2. How Gas Fees and Transactions work together ?
    Okay
+   ![alt text](image.png)
